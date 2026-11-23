@@ -1,0 +1,7 @@
+[project]
+name = "cauldron-alchemist"
+version = "0.1.0"
+description = "El caldero del goblin alquimista: evaluador de pociones y CLI interactivo."
+readme = "cauldron-spec.md"
+requires-python = ">=3.9"
+dependencies = []
